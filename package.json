@@ -5,5 +5,11 @@
   "main": "app.js",
   "repository": "https://github.com/alialaba/codestester.git",
   "author": "alialaba <alialaba079@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
